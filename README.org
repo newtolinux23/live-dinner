@@ -1,0 +1,21 @@
+* The Chef By The Cooper
+
+This is the repository for the website of "The Chef By The Cooper", a meal prep and delivery service based in Arlington, TX.
+
+**Services**
+
+The service provides fresh, healthy meal prep and delivery. The website showcases the menu, tells the story of the business, and provides contact information.
+
+**Technology**
+
+The website is built using:
+- HTML
+- CSS
+- JavaScript
+- PHP for the contact form
+
+It is based on the "Eatery Cafe Template" from templatemo.
+
+**Usage**
+
+Simply open the `index.html` file in a web browser to view the website. The contact form is handled by FormSubmit.co.
