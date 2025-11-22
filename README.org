@@ -1,21 +1,45 @@
+#+TITLE: The Chef By The Cooper - Website
+
 * The Chef By The Cooper
 
-This is the repository for the website of "The Chef By The Cooper", a meal prep and delivery service based in Arlington, TX.
+This repository contains the source code for the website of "The Chef By The Cooper", a meal prep and delivery service based in Arlington, TX.
 
-**Services**
+**Live Demo**
 
-The service provides fresh, healthy meal prep and delivery. The website showcases the menu, tells the story of the business, and provides contact information.
+You can see the live website at: [https://newtolinux23.github.io/live-dinner/](https://newtolinux23.github.io/live-dinner/)
 
-**Technology**
+**About the Business**
 
-The website is built using:
-- HTML
-- CSS
-- JavaScript
-- PHP for the contact form
+The Chef By The Cooper provides fresh, healthy meal prep and delivery services. This website showcases the menu, tells the story behind the business, and provides an easy way for customers to get in touch.
 
-It is based on the "Eatery Cafe Template" from templatemo.
+**Technical Details**
 
-**Usage**
+The website is built with the following technologies:
+- HTML5
+- CSS3 (with Bootstrap and other libraries)
+- JavaScript (with jQuery)
+- PHP for the contact form processing
 
-Simply open the `index.html` file in a web browser to view the website. The contact form is handled by FormSubmit.co.
+The design is based on the "Eatery Cafe Template" by [templatemo](https://templatemo.com/tm-521-eatery).
+
+**Getting Started**
+
+To run this project locally, you will need a local web server that supports PHP (like XAMPP, MAMP, or a simple Python server).
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/newtolinux23/live-dinner.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd live-dinner
+    ```
+3.  **Open `index.html` in your browser, or serve the directory with a local web server.** To test the PHP contact form, you will need a server environment that can execute PHP.
+
+**Contact Form**
+
+The contact form in `contact.php` is configured to use FormSubmit.co. You will need to configure it with your own email address to receive submissions.
+
+**Contributing**
+
+Contributions are welcome! If you'd like to improve the website, please feel free to fork the repository and submit a pull request.
